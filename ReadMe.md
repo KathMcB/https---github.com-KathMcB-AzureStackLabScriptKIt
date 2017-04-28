@@ -44,4 +44,6 @@ NOTE: do not change the variables as changing them will/could break the scripts
 4 Run the Enterprise/Service provider script to install the lab
 
 NOTE: you will be asked to provide credentials during the build of the lab.  The credentials required will be your service admin account and password EXCEPT for when the registration is taking place.  This will require the service admin associated with your billing account and password
+
+
 NOTE: Due to the length of time the script runs, you may need to reauthenticate.  Before installation of each of the images (end of script), a reauthentication to azure stack will occur automatically
